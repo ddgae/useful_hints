@@ -47,6 +47,4 @@ MATLAB TIPS <br>
   - Think through your problems. <br>
   - Take a class. <br>
   - MATLAB really helps orgainze your thoughts like accessable values in Excel. <br>
-# useful_hints
-# useful_hints
-# useful_hints
+
