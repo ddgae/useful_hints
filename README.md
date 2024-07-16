@@ -16,7 +16,7 @@ Practice, Practice, Pratice. <br>
  
 PYTHON TIPS <br>
 
-  - Predefined data structure is very critical for such as tuples, lists, strings, dictionaries. <br>
+  - Predefined data structure is very critical for such as tuples, lists, strings, and dictionaries. <br>
   - Tuples are useful if you are accessing an array of information. <br>
   - Both lists and strings are helpful. But, I have a tendency to use both integer and char. <br>
   - When you know the size of the array information. A dictionary helps a lot. <br>
