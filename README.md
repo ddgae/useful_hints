@@ -6,7 +6,7 @@
     <div></div>
  </div>
 I am a biochemist with experience in Clinical Informatics Research.  <br>
-I don't teach at all, but here are some tips that might be useful. <br>
+I don't teach, but here are some tips that might be useful. <br>
 Practice, Practice, Pratice. <br>
 <div>
     <div></div>
